@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class = "card">
+        <div class = "search">
+            <input class = "inp" type = "text" placeholder = "enter city name" spellcheck="false">  <!-- spellcheck="false" (Prevents browsers from marking programming keywords as spelling errors)-->
+            <button class = "btn">🔍</button>
+        </div>
+        <!-- if wrong city -->
+        <div class="error">
+            <p>Invalid city name</p>
+        </div>
+
+        <div class = "weather">
+            <img src="images/rainy.png" class ="imag" alt="">
+            <h1 class = "temp">22°C</h1>
+            <h2 class = "city">Bengaluru</h2>
+            <div class = "details">
+                <div class = "col1">
+                    <img src="images/humidity.png" class = "humidityimg">
+                    <div class = "hum">
+                        <p class="humidity">50%</p>
+                        <p>humidity</p>
+                    </div> 
+                </div>
+                <div class = "col2">
+                    <img src="images/wind.png" class = "windimg">
+                    <div class = "wind">
+                        <p class = "windd">15km/h</p>
+                        <p>Wind Speed</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        </div>
+    </div>
+
+
+    <script src="index.js"></script>
+    
+</body>
+</html>
