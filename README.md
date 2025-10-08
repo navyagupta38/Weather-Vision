@@ -1,5 +1,5 @@
 # Weather-Vision
-A real-time weather app that **fetches real-time weather data using the OpenWeatherMap API** to check current temperature, humidity, wind speed, and weather conditions for any city 
+A real-time weather app that **fetches real-time weather data using the OpenWeatherMap API** to check current temperature, humidity, wind speed, and weather conditions for any city.
 
 
 ## 🚀 Features
