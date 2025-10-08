@@ -22,10 +22,4 @@ A real-time weather app that **fetches real-time weather data using the OpenWeat
   - **JavaScript (ES6)** – Dynamic functionality and API handling
   - **OpenWeatherMap API** – Real-time weather data source
 
-## 📁 Project Structure / Code Files
-
-- `index.html` → Main HTML file for the UI
-- `style.css` → CSS file for styling the app
-- `index.js` → JavaScript file for fetching weather data and updating the UI
-- `images/` → Folder containing weather icons and screenshot
 
