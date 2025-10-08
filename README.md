@@ -5,13 +5,9 @@ A real-time weather app that **fetches real-time weather data using the OpenWeat
 ## 🚀 Features
 
   - 🌍 Search weather by city name
-  
   - 🌡️ Displays temperature (°C), humidity (%), and wind speed (km/h)
-  
   - ⛅ Dynamic weather icons for Clouds, Clear, Rain, Drizzle, and Mist
-  
   - ⚠️ Error handling for invalid city names
-  
   - 💻 Clean, responsive, and user-friendly UI
 
   ## 📸 Project UI
@@ -19,12 +15,17 @@ A real-time weather app that **fetches real-time weather data using the OpenWeat
 ![Weather-Vision Screenshot](images/ui.png)
 
 
-🧠 Technologies Used
+## 🧠 Technologies Used
 
-  - **HTML5** – Structure of the web app
-  
+  - **HTML5** – Structure of the web app 
   - **CSS3** – Styling and layout
-  
   - **JavaScript (ES6)** – Dynamic functionality and API handling
-  
   - **OpenWeatherMap API** – Real-time weather data source
+
+## 📁 Project Structure / Code Files
+
+- `index.html` → Main HTML file for the UI
+- `style.css` → CSS file for styling the app
+- `index.js` → JavaScript file for fetching weather data and updating the UI
+- `images/` → Folder containing weather icons and screenshot
+
